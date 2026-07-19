@@ -1,0 +1,6 @@
+# Alpha Quant Systems -- bot license control
+# One line per bot: <BotId>=on|off
+# "ALL=off" disables every bot that checks this file.
+# Bots re-check hourly. Unreachable file = bots keep trading (fail-open).
+
+AlphaOscFlip=on
